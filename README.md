@@ -15,3 +15,10 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
+
+![Alt text](https://github.com/Clinton-Gilly/React-website/blob/c9afd8b3cbbf905386b90d8c5d400ee53ba46387/Frame%201.png)
+
+
+
+
+![Alt text](https://github.com/Clinton-Gilly/React-website/blob/c9afd8b3cbbf905386b90d8c5d400ee53ba46387/Frame%202.png)
